@@ -11,7 +11,7 @@ description: Adobe GenStudio is an end-to-end solution to accelerate and simplif
 
 >[!BEGINSHADEBOX]
 
-Adobe’s GenStudio is the only end-to-end solution that accelerates your organization’s content supply chain by empowering your team to scale content creation with Generative AI, increase team agility and speed to market and improve content ROI and efficiency.
+Adobe's GenStudio is the only end-to-end solution that accelerates your organization's content supply chain by empowering your team to scale content creation with Generative AI, increase team agility and speed to market and improve content ROI and efficiency.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424114?quality=12&learn=on)
 
