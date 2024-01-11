@@ -22,12 +22,12 @@ A content supply chain brings together people, tools, and workstreams to effecti
 <table>
     <tr style="border: 0;">
       <td>
-        <a href="https://experienceleague.corp.adobe.com/docs/adobe-genstudio/tutorials/workflow-and-planning.html">
-        <img alt="Planning and Workflow" src="./../assets/planning-workflow.webp">
+        <a href="https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/workflow-and-planning.html">
+        <img alt="Workflow and Planning" src="./../assets/planning-workflow.webp">
         </a>
         <div>
-        <a href="https://experienceleague.corp.adobe.com/docs/adobe-genstudio/tutorials/workflow-and-planning.html">
-        <strong>Planning and Workflow</strong>
+        <a href="https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/workflow-and-planning.html">
+        <strong>Workflow and Planning</strong>
         </a>
         </div>
         <p>
@@ -35,11 +35,11 @@ A content supply chain brings together people, tools, and workstreams to effecti
         <p>
       </td>
       <td>
-        <a href="https://experienceleague.corp.adobe.com/docs/adobe-genstudio/tutorials/creative-productivity.html">
+        <a href="https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/creative-productivity.html">
         <img alt="Creative Productivity" src="./../assets/creative-productivity.png">
         </a>
         <div>
-        <a href="https://experienceleague.corp.adobe.com/docs/adobe-genstudio/tutorials/creative-productivity.html">
+        <a href="https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/creative-productivity.html">
         <strong>Creative Productivity</strong>
         </a>
         </div>
@@ -50,11 +50,11 @@ A content supply chain brings together people, tools, and workstreams to effecti
     </tr>
     <tr style="border: 0;">
       <td>
-        <a href="https://experienceleague.corp.adobe.com/docs/adobe-genstudio/tutorials/marketing-agility.html">
+        <a href="https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/marketing-agility.html">
         <img alt="Marketing Agility" src="./../assets/marketing-agility.webp">
         </a>
         <div>
-        <a href="https://experienceleague.corp.adobe.com/docs/adobe-genstudio/tutorials/marketing-agility.html">
+        <a href="https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/marketing-agility.html">
         <strong>Marketing Agility</strong>
         </a>
         </div>
@@ -63,12 +63,12 @@ A content supply chain brings together people, tools, and workstreams to effecti
         <p>
       </td>
       <td>
-        <a href="https://experienceleague.corp.adobe.com/docs/adobe-genstudio/tutorials/delivery-and-activation.html">
-        <img alt="Content Activation and Analytics" src="./../assets/content-activation-analytics.webp">
+        <a href="https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/delivery-and-activation.html">
+        <img alt="Delivery and Activation" src="./../assets/content-activation-analytics.webp">
         </a>
         <div>
-        <a href="https://experienceleague.corp.adobe.com/docs/adobe-genstudio/tutorials/delivery-and-activation.html">
-        <strong>Content Activation and Analytics</strong>
+        <a href="https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/delivery-and-activation.html">
+        <strong>Delivery and Activation</strong>
         </a>
         </div>
         <p>
