@@ -11,11 +11,11 @@ last-substantial-update: 2023-11-16
 jira: KT-14154
 ---
 
-# Workflow and Planning: Streamline and accelerate work
+# Workflow and planning: Streamline and accelerate work
 
-For the company struggling to connect and track their  content requirements through the planning process to content production and  completion. Lack of effective process, planning, approvals, and data  consistency across projects is robbing this company's content supply chain of  both productivity and efficiency.
+For the company struggling to connect and track their content requirements through the planning process to content production and completion. Lack of effective process, planning, approvals, and data consistency across projects are robbing this company's content supply chain of  both productivity and efficiency.
 
-The Adobe solutions used for Planning and workflow,
+The Adobe solutions used for planning and workflow:
 
 <table>
     <tr style="border: 0;">

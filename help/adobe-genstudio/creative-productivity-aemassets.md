@@ -14,15 +14,15 @@ hidefromtoc: true
 
 # Creative productivity: Supercharge creative teams
 
-For the company that has rockstar creatives but needs to turn up their content creation. GenStudio provides tools supercharged with GenAI that will help this team boost their content production, delivery and discoverability.
+For the company that has rockstar creatives but needs to turn up their content creation. GenStudio provides tools supercharged with GenAI that help this team boost their content production, delivery, and discoverability.
 
 ## Primary business use cases
 
-* Save creative professionals’ time via GenAI-powered creative ideation & editing
+* Save creative professionals' time via GenAI-powered creative ideation & editing
 * Facilitate collaboration and review among creatives
 * Easily access existing assets to inform new content creation
 
-The Adobe solutions used for Creative productivity,
+The Adobe solutions used for creative productivity:
 
 <table>
     <tr style="border: 0;">
@@ -181,7 +181,7 @@ The Adobe solutions used for Creative productivity,
           <p class="headline is-size-6 has-text-weight-bold">
               <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/page-authoring-overview-feature-video-use.html" title="Authoring a page">Authoring a page</a>
           </p>
-          <p class="is-size-6"><em>Learn how to author a page in Adobe Experience Manager Sites using the Site Editor’s UI.</em></p>
+          <p class="is-size-6"><em>Learn how to author a page in Adobe Experience Manager Sites using the Site Editor's UI.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/page-authoring-overview-feature-video-use.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch the video</span>
@@ -400,7 +400,7 @@ The Adobe solutions used for Creative productivity,
     </a>
     </div>
     <p>
-    <em>Learn how to author a page in Adobe Experience Manager Sites using the Site Editor’s UI.</em>
+    <em>Learn how to author a page in Adobe Experience Manager Sites using the Site Editor's UI.</em>
     </p><p>
   </p></td>
   <td>

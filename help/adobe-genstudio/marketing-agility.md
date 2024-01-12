@@ -11,11 +11,11 @@ last-substantial-update: 2023-11-16
 jira: KT-14156
 ---
 
-# Marketing Agility: Empower non-creatives to scale
+# Marketing agility: Empower non-creatives to scale
 
-With Adobe GenStudio, sometimes a content request can be addressed  without the full creative team/studio treatment. Adobe puts tools in the  hands of marketers and other potential content creators so that quick turns  on creating content variations and updates can be executed by an expanded,  broader group of individuals connected to the Content Supply Chain,  dramatically increasing the content throughput and time-to-market.
+With Adobe GenStudio, sometimes a content request can be addressed without the full creative team/studio treatment. Adobe puts tools in the hands of marketers and other potential content creators. These tools enable quick turns on creating content variations, and updates can be executed by an expanded, broader group of individuals connected to the content supply chain, dramatically increasing the content throughput and time-to-market.
 
-The Adobe solutions used for Marketing agility,
+The Adobe solutions used for marketing agility:
 
 
 <table>
