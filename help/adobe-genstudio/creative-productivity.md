@@ -11,17 +11,17 @@ last-substantial-update: 2023-11-16
 jira: KT-14155
 ---
 
-# Creative Productivity: Supercharge creative teams
+# Creative productivity: Supercharge creative teams
 
 For the company that has rockstar creatives but needs to turn up their content creation. GenStudio provides tools supercharged with GenAI that will help this team boost their content production, delivery and discoverability.
 
 ## Primary business use cases
 
-* Save creative professionals’ time via GenAI-powered creative ideation & editing
+* Save creative professionals' time via GenAI-powered creative ideation & editing
 * Facilitate collaboration and review among creatives
 * Easily access existing assets to inform new content creation
 
-The Adobe solutions used for Creative productivity,
+The Adobe solutions used for creative productivity:
 
 <table>
     <tr style="border: 0;">
@@ -403,7 +403,7 @@ The Adobe solutions used for Creative productivity,
     </a>
     </div>
     <p>
-    <em>Learn how to author a page in Adobe Experience Manager Sites using the Site Editor’s UI.</em>
+    <em>Learn how to author a page in Adobe Experience Manager Sites using the Site Editor's UI.</em>
     </p><p>
   </p></td>
   <td>

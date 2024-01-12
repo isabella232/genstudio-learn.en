@@ -11,7 +11,7 @@ last-substantial-update: 2023-11-16
 jira: KT-14157
 ---
 
-# Delivery and Activation: power experiences and performance
+# Delivery and activation: power experiences and performance
 
 For the company that needs support getting the right content in front of the right individual on the right channel. GenStudio makes that connection better than any other solution, while also providing the analytics to ensure overall content performance.
 
@@ -22,7 +22,7 @@ For the company that needs support getting the right content in front of the rig
 * Instantly generate & test copy
 * Deploy relevant, personalized experiences across channels
 
-The Adobe solutions used for Content activation and analytics,
+The Adobe solutions used for content activation and analytics:
 
 
 <table>
@@ -180,7 +180,7 @@ The Adobe solutions used for Content activation and analytics,
           <p class="headline is-size-6 has-text-weight-bold">
               <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html" title="Content Fragments Console videos">Content Fragments Console videos</a>
           </p>
-          <p class="is-size-6"><em>Adobe Experience Manager’s Content Fragments Console makes managing and authoring Content Fragments easy! Learn how to make the most of the Content Fragments Console with these videos.</em></p>
+          <p class="is-size-6"><em>Adobe Experience Manager's Content Fragments Console makes managing and authoring Content Fragments easy! Learn how to make the most of the Content Fragments Console with these videos.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
@@ -379,7 +379,7 @@ The Adobe solutions used for Content activation and analytics,
     </a>
     </div>
     <p>
-    <em>Adobe Experience Manager’s Content Fragments Console makes managing and authoring Content Fragments easy! Learn how to make the most of the Content Fragments Console with these videos.</em>
+    <em>Adobe Experience Manager's Content Fragments Console makes managing and authoring Content Fragments easy! Learn how to make the most of the Content Fragments Console with these videos.</em>
     </p><p>
   </p></td>
   </tr>
