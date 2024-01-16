@@ -1,6 +1,6 @@
 ---
 title: Delivery and Activation - power experiences and performance
-description: For the company that needs support getting the right content in front of the right individual on the right channel. GenStudio makes that connection better than any other solution, while also providing the analytics to ensure overall content performance.
+description: For the company that needs support getting the right content in front of the right individual on the right channel. [!DNL GenStudio] makes that connection better than any other solution, while also providing the analytics to ensure overall content performance.
 solution: Experience Cloud, Workfront, Creative Cloud, Experience Manager Assets
 feature-set: Experience Manager, Experience Manager Assets, Experience Manager Sites, Journey Optimizer, Creative Cloud
 feature: Asset Management, Asset Processing, Collaboration, Share, Performance Monitoring, Personalization, Channels Activity, Gen AI
@@ -13,7 +13,7 @@ jira: KT-14157
 
 # Delivery and activation: power experiences and performance
 
-For the company that needs support getting the right content in front of the right individual on the right channel. GenStudio makes that connection better than any other solution, while also providing the analytics to ensure overall content performance.
+For the company that needs support getting the right content in front of the right individual on the right channel. [!DNL GenStudio] makes that connection better than any other solution, while also providing the analytics to ensure overall content performance.
 
 ## Primary business use cases
 
@@ -444,5 +444,5 @@ The Adobe solutions used for content activation and analytics:
 
 * [Experience League Events](https://experienceleague.adobe.com/events/)
 * [Adobe GenStudio on business.adobe.com](https://business.adobe.com/solutions/adobe-genstudio.html)
-* [Adobe GenStudio resource guide](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html)
+* [Adobe [!DNL GenStudio] resource guide](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html)
 * [Adobe on the content supply chain](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)

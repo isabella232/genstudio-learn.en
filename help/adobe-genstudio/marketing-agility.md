@@ -1,6 +1,6 @@
 ---
 title: Marketing Agility - Empower non-creatives to scale
-description: With Adobe GenStudio, sometimes a content request can be addressed  without the full creative team/studio treatment. Adobe puts tools in the  hands of marketers and other potential content creators so that quick turns  on creating content variations and updates can be executed by an expanded,  broader group of individuals connected to the Content Supply Chain,  dramatically increasing the content throughput and time-to-market.
+description: View the Adobe [!DNL GenStudio] tutorials, sometimes a content request can be addressed  without the full creative team/studio treatment. Adobe puts tools in the  hands of marketers and other potential content creators so that quick turns  on creating content variations and updates can be executed by an expanded,  broader group of individuals connected to the Content Supply Chain,  dramatically increasing the content throughput and time-to-market.
 solution: Experience Cloud, Creative Cloud, Experience Manager Assets
 feature-set: Experience Manager, Experience Manager Assets, Creative Cloud
 feature: Workflow, Asset Management, Publishing, Asset Processing, Collaboration, Share, Gen AI
@@ -13,7 +13,7 @@ jira: KT-14156
 
 # Marketing agility: Empower non-creatives to scale
 
-With Adobe GenStudio, sometimes a content request can be addressed without the full creative team/studio treatment. Adobe puts tools in the hands of marketers and other potential content creators. These tools enable quick turns on creating content variations. Updates can be executed by an expanded, broader group of individuals connected to the content supply chain, dramatically increasing the content throughput and time-to-market.
+With Adobe [!DNL GenStudio], sometimes a content request can be addressed without the full creative team/studio treatment. Adobe puts tools in the hands of marketers and other potential content creators. These tools enable quick turns on creating content variations. Updates can be executed by an expanded, broader group of individuals connected to the content supply chain, dramatically increasing the content throughput and time-to-market.
 
 The Adobe solutions used for marketing agility:
 
@@ -463,6 +463,6 @@ The Adobe solutions used for marketing agility:
 ## Additional resources
 
 * [Experience League Events](https://experienceleague.adobe.com/events/)
-* [Adobe GenStudio on business.adobe.com](https://business.adobe.com/solutions/adobe-genstudio.html)
-* [Adobe GenStudio resource guide](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html)
+* [Adobe [!DNL GenStudio] on business.adobe.com](https://business.adobe.com/solutions/adobe-genstudio.html)
+* [Adobe [!DNL GenStudio] resource guide](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html)
 * [Adobe on the content supply chain](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
