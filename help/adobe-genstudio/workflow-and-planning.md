@@ -256,6 +256,6 @@ The Adobe solutions used for planning and workflow:
 ## Additional resources
 
 * [Experience League Events](https://experienceleague.adobe.com/events/)
-* [Adobe GenStudio on business.adobe.com](https://business.adobe.com/solutions/adobe-genstudio.html)
-* [Adobe GenStudio resource guide](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html)
+* [Adobe [!DNL GenStudio] on business.adobe.com](https://business.adobe.com/solutions/adobe-genstudio.html)
+* [Adobe [!DNL GenStudio] resource guide](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html)
 * [Adobe on the content supply chain](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)

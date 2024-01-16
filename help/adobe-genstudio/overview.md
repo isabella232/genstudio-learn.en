@@ -1,9 +1,9 @@
 ---
-title: Adobe GenStudio
+title: Adobe [!DNL GenStudio]
 description: Adobe GenStudio is an end-to-end solution to accelerate and simplify your content supply chain with generative AI and intelligent automation.
 ---
 
-# Adobe GenStudio Tutorials
+# Adobe [!DNL GenStudio] Tutorials
 
 <!-- 
 ![Adobe GenStudio](/help/assets/adobe-genstudio-main.webp) 
@@ -11,7 +11,7 @@ description: Adobe GenStudio is an end-to-end solution to accelerate and simplif
 
 >[!BEGINSHADEBOX]
 
-Adobe's GenStudio is the only end-to-end solution that accelerates your organization's content supply chain by empowering your team to scale content creation with Generative AI, increase team agility and speed to market and improve content ROI and efficiency.
+Adobe's [!DNL GenStudio] is the only end-to-end solution that accelerates your organization's content supply chain by empowering your team to scale content creation with Generative AI, increase team agility and speed to market and improve content ROI and efficiency.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424114?quality=12&learn=on)
 
@@ -82,6 +82,6 @@ A content supply chain brings together people, tools, and workstreams to effecti
 ## Additional resources
 
 * [Experience League Events](https://experienceleague.adobe.com/events/)
-* [Adobe GenStudio on business.adobe.com](https://business.adobe.com/solutions/adobe-genstudio.html)
-* [Adobe GenStudio resource guide](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html)
+* [Adobe [!DNL GenStudio] on business.adobe.com](https://business.adobe.com/solutions/adobe-genstudio.html)
+* [Adobe [!DNL GenStudio] resource guide](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html)
 * [Adobe on the content supply chain](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
