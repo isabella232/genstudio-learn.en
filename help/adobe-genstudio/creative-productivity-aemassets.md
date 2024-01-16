@@ -1,6 +1,6 @@
 ---
 title: Creative productivity - Supercharge creative teams
-description: For the company with rockstar creatives but that needs to turn the production up. GenStudio provides tools supercharged with GenAI that will help this team up their content production, delivery and discoverability. 
+description: For the company with rock star creatives but that needs to turn the production up. GenStudio provides tools supercharged with GenAI that will help this team up their content production, delivery and discoverability. 
 solution: Experience Cloud, Creative Cloud, Experience Manager Assets
 feature-set: Experience Manager, Experience Manager Assets, Creative Cloud
 feature: Workflow, Asset Management, Asset Processing, Asset Distribution, Publishing, Collaboration, Share, Gen AI, UI Design, Graphic Design
@@ -14,7 +14,7 @@ hidefromtoc: true
 
 # Creative productivity: Supercharge creative teams
 
-For the company that has rockstar creatives but needs to turn up their content creation. GenStudio provides tools supercharged with GenAI that help this team boost their content production, delivery, and discoverability.
+For the company that has rock star creatives but needs to turn up their content creation. GenStudio provides tools supercharged with GenAI that help this team boost their content production, delivery, and discoverability.
 
 ## Primary business use cases
 
