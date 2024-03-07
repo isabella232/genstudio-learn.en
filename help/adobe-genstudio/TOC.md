@@ -6,9 +6,4 @@ user-guide-description: View Experience League tutorials on Adobe [!DNL GenStudi
 
 # Adobe [!DNL GenStudio] {#tutorials}
 
-+ [[!DNL GenStudio] Tutorials](overview.md)
-+ [Workflow and planning](workflow-and-planning.md)
-+ [Creative productivity](creative-productivity.md)
-+ [Creative productivity with AEM Assets](creative-productivity-aemassets.md)
-+ [Marketing agility](marketing-agility.md)
-+ [Delivery and activation](delivery-and-activation.md)
++ [[!DNL GenStudio] Tutorials](introduction.md)
